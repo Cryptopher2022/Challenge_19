@@ -26,11 +26,11 @@ On the left hand side of the web application, there is additional information pr
 
     F. A "Send Transaction" button to execute the transaction, as shown below:  
 
-![Sidebar](sidebar_populated.png)
+![Sidebar](https://github.com/Cryptopher2022/Challenge_19/blob/main/Images/Sidebar_populated.png)
 
     G. After the transaction is complete, the Validated Transaction Hash:
 
-![Validated_Trans](validated_trans.png)
+![Validated_Trans](https://github.com/Cryptopher2022/Challenge_19/blob/main/Images/first_readme_validation.png)
 
     
 This program will take the following steps in order to do the following:
@@ -51,11 +51,11 @@ This program will take the following steps in order to do the following:
 
         2. Screenshots will be taken and posted below.  
 
-![Hooray](Hooray!.png)
+![Hooray](https://github.com/Cryptopher2022/Challenge_19/blob/main/Images/Hooray!.png)
 
-![Ganache_validation](Ganache_post_trans.png)
+![Ganache_validation](https://github.com/Cryptopher2022/Challenge_19/blob/main/Images/Ganache_post_trans.png)
 
-![Ganache_trans_confirmation](Ganache_trans_confirm.png)
+![Ganache_trans_confirmation](https://github.com/Cryptopher2022/Challenge_19/blob/main/Images/Ganache_trans_confirm.png)
 
 These final images confirm a transaction was successfully completed.
 ---
